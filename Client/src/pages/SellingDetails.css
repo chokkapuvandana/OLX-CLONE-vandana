@@ -1,0 +1,196 @@
+
+@media only screen and (min-width: 992px) {
+  .detail {
+    background-color: #d9d9d9;
+    border: 2px solid #d9d9d9;
+    text-align: center;
+    margin: 10% 10%;
+    width: 90%;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 30px;
+    padding: 10px 8px;
+    border-radius: 30px;
+  }
+  .bokada{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    padding: 0 0 0 90%;
+    margin-left: 60%;
+  }
+  ._9876 {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    margin-left: 10%;
+  }
+
+  #button1,
+  #button2 {
+    display: inline-block;
+    width: 40%;
+    margin: 2% 15%;
+    height: 40px;
+    padding: 10px 10px;
+  }
+
+  #button3 {
+    display: inline-block;
+    border-radius: 50%;
+    width: 30%;
+    margin: 7% 5% 0% 25%;
+    height: 60px;
+    padding: 10px 3px;
+    font-size: 16px;
+    font-weight: 800;
+    text-align: center;
+  }
+  .qwerty{
+    margin-left: 20%;
+  }
+  #button4,
+  #button5 {
+    display: inline-block;
+    width: 50%;
+    margin-top: 3%;
+    height: 50px;
+    padding: 10px 3px 0px 3px;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .update {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .detail {
+    background-color: #d9d9d9;
+    border: 2px solid #d9d9d9;
+    text-align: center;
+    margin: 10% 10%;
+    width: 90%;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 30px;
+    padding: 10px 8px;
+    border-radius: 30px;
+  }
+  .bokada{
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    padding: 0 0 0 25%;
+    margin-left: 60%;
+  }
+  ._9876 {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    margin-left: 10%;
+  }
+
+  #button1,
+  #button2 {
+    display: inline-block;
+    width: 40%;
+    margin: 2% 15%;
+    height: 40px;
+    padding: 10px 10px;
+  }
+
+  #button3 {
+    display: inline-block;
+    border-radius: 50%;
+    width: 30%;
+    margin: 7% 5% 0% 25%;
+    height: 60px;
+    padding: 10px 3px;
+    font-size: 16px;
+    font-weight: 800;
+    text-align: center;
+  }
+  .qwerty{
+    margin-left: 20%;
+  }
+  #button4,
+  #button5 {
+    display: inline-block;
+    width: 50%;
+    margin-top: 3%;
+    height: 50px;
+    padding: 10px 3px 0px 3px;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  .update {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .detail {
+    background-color: #d9d9d9;
+    border: 2px solid #d9d9d9;
+    text-align: center;
+    margin: 12% 5%;
+    width: 90%;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 30px;
+    padding: 10px 3px;
+    border-radius: 30px;
+  }
+  .sellingdetails{
+    margin-top: -50px;
+  }
+  ._9876 {
+    height: 40px;
+    width: 100%;
+    display: flex;
+  }
+
+  #button1,
+  #button2 {
+    display: inline-block;
+    width: 50%;
+    margin: 3% 5% 3% 3%;
+    height: 40px;
+    padding: 10px 3px;
+  }
+
+  #button3 {
+    display: inline-block;
+    border-radius: 70%;
+    width: 30%;
+    margin: 9% 5% 3% 3%;
+    height: 60px;
+    padding: 10px 3px;
+    font-size: 16px;
+    font-weight: 800;
+    text-align: center;
+  }
+
+  #button4,
+  #button5 {
+    display: inline-block;
+    width: 50%;
+    margin-top: 12%;
+    height: 50px;
+    padding: 10px 3px 0px 3px;
+    text-align: center;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+
+  .update {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
